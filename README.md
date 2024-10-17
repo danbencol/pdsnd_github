@@ -21,6 +21,7 @@ Users can also request to see the raw data.
 * Python 3.x
 * Pandas library
 * NumPy library
+* time library
 
 ## Usage
 -----
