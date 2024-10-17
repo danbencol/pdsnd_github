@@ -13,7 +13,7 @@ The program allows users to select a city, month, and day to analyze, and then d
 * Total and average trip duration
 * User statistics (user types, gender, and birth year)
 
-The user can also request to see the raw data.
+Users can also request to see the raw data.
 
 ## Requirements
 ---------------
