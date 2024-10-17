@@ -1,3 +1,8 @@
+# We need the time library to measure the time it takes to run certain calculations
+# The pandas library is used to load and manipulate the data
+# The numpy library is used to perform statistical calculations
+# The typing library is used to add type hints to improve code readability
+
 import time
 import pandas as pd
 import numpy as np
