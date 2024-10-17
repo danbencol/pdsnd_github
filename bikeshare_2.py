@@ -1,3 +1,8 @@
+# We need the time library to measure the time it takes to run certain calculations
+# The pandas library is used to load and manipulate the data
+# The numpy library is used to perform statistical calculations
+# The typing library is used to add type hints to improve code readability
+
 import time
 import pandas as pd
 import numpy as np
@@ -23,7 +28,7 @@ def get_filters() -> Tuple[str, str, str]:
             - month: name of the month to filter by, or "all" to apply no month filter
             - day: name of the day of week to filter by, or "all" to apply no day filter
     """
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Let\'s explore some US bikeshare data!')
 
     # Get user input for city
     while True:
